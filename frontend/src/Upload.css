@@ -1,0 +1,29 @@
+.dropzone {
+  width: 96%;
+  height: 93%;
+  border-radius: 15px;
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+  color: #539ff6;
+  font-weight: 600;
+}
+
+.dropzone-border {
+  width: 377px;
+  height: 175px;
+  border-radius: 19.5px;
+  background-color: #c2e1ffa6;
+  box-shadow: 0px 0px 20px 10px #7777770d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.upload-icon {
+  width: 100px;
+}
+
+.upload-input {
+  display: none;
+}

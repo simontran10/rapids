@@ -1,0 +1,40 @@
+.fadeInAnimation {
+    animation: fadeIn ease 0.6s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.home-center {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+}
+
+.home-content {
+    float: left;
+    margin-right: 150px;
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-color: #539ff6;
+    text-underline-position: under;
+}
+
+.logo {
+    width: 270px;
+    float: right;
+    margin-top: 23px;
+}

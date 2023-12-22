@@ -1,0 +1,4 @@
+flask
+black
+python-dotenv
+boto3
