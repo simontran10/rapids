@@ -50,4 +50,6 @@ cd .. && cd backend/src && source venv/bin/activate && python3 app.py
 
 ## Usage
 
-https://github.com/simontran17/rapids/assets/148033321/917760e1-1c5c-4792-84a6-236acbb62b45
+https://github.com/simontran10/rapids/assets/154569580/6495db75-d08d-4188-bf7a-bde9c6861f8c
+
+
