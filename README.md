@@ -1,6 +1,6 @@
 # rapids
 
-a loginless file sharing web app with basic concurrency
+a loginless file sharing web app with basic concurrency modeled by the map abstract data type.
 
 ## Installation
 
